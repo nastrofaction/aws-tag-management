@@ -1,0 +1,4 @@
+tags:
+  - name: TagName
+    required: True
+    path: s3://bucket/prefix/to/valid/TagName/values.list
